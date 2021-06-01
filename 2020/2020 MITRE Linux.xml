@@ -334,20 +334,6 @@ Also the rule provides configuration options to ignore files for monitoring and 
 			<Tags></Tags>
 			<MinimumManagerVersion>6.0.0</MinimumManagerVersion>
 		</IntegrityRule>
-		<IntegrityRule doNotMerge="true" id="83">
-			<TBUID>D03D581D-5839-C4E0-4A88-C6262720BC6F</TBUID>
-			<Name>Application - Gzip</Name>
-			<Description>This alert indicates that the files/registry keys created by Gzip have been changed.</Description>
-			<Severity>2</Severity>
-			<AllowOnChange>true</AllowOnChange>
-			<MinimumAgentVersion>6.0.0.2098</MinimumAgentVersion>
-			<UserEdited>false</UserEdited>
-			<RequiresConfiguration>false</RequiresConfiguration>
-			<Alert>false</Alert>
-			<RecommendationsMode>1</RecommendationsMode>
-			<Tags></Tags>
-			<MinimumManagerVersion>6.0.0</MinimumManagerVersion>
-		</IntegrityRule>
 		<IntegrityRule doNotMerge="true" id="20">
 			<TBUID>98D93B61-6B46-DAA9-886E-7DC077006FE5</TBUID>
 			<Name>DNS Client</Name>

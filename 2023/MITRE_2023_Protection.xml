@@ -341,7 +341,7 @@
 			<ExcludedScanProcessFileList>1</ExcludedScanProcessFileList>
 			<ScanCompressedNumberOfFiles>10</ScanCompressedNumberOfFiles>
 			<ATSEDetectionEnabled>true</ATSEDetectionEnabled>
-			<ATSEDetectionLevel>2</ATSEDetectionLevel>
+			<ATSEDetectionLevel>4</ATSEDetectionLevel>
 			<ScanActionForAtseLevel1>3</ScanActionForAtseLevel1>
 			<ScanActionForAtseLevel2>3</ScanActionForAtseLevel2>
 			<ScanActionForAtseLevel3>3</ScanActionForAtseLevel3>
